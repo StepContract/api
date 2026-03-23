@@ -5,3 +5,12 @@ services:
       - .env.example
     ports:
       - "8000:8000"
+    depends_on:
+      - mariadb
+    volumes:
+      - .:/app
+
+  mariadb:
+    image: mariadb:12.2.2
+    env_file:
+      - .env.example
