@@ -12,7 +12,7 @@ Access the public API documentation here [https://api.step-contract.fr/docs](htt
 
 ## Context
 This is a personal project that is very important to me. My objectives with StepContract are :
-- Provide a service that helps users to stay motivation to practice physical activities according to their goals.
+- Provide a service that helps users to stay motivated to practice physical activities according to their goals.
 - Improve and showcase the skills I learned during my studies and my professional experience.
 - Build a complete production-ready application (Infrastructure, CI/CD, Deployment, Frontend, API, Database, Testing).
 
